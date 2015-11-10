@@ -24,6 +24,9 @@ public function rules() {
 - allowEmpty (if this date can be null or not)
 - convertFormat (format to convert the date after it gets validated)
 
+**More info on using Yii Extensions**
+http://www.yiiframework.com/doc/guide/1.1/en/extension.use
+
 **About the author**
    - Email: joaopedrocr@gmail.com
    - Blog: http://joaoperibeiro.com
